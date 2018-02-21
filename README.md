@@ -2,7 +2,7 @@
 
 1.go to-https://www.cloudmqtt.com/
 make new account on cloudmqtt
-2.then go server detail page-
+2.then go server detail page-\n
 note down-servername,username,password,port
 3.open arduino
 install esp8266 nodemcu library
